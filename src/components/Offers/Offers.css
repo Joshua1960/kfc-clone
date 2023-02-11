@@ -1,0 +1,29 @@
+.offer {
+    display: flex;
+    place-items: center;
+    flex-direction: column;
+    background: #F4E1D3;
+    padding-top: 3rem;
+}
+.ads-container {
+    display: flex;
+    gap: 3rem;
+    height: 30vh;
+}
+
+@media screen and (max-width: 1023px) {
+   .offer {
+        display: flex;
+        place-items: center;
+        flex-direction: column;
+        gap: 1.5rem;
+        padding-bottom: 4rem;
+    }
+    .ads-container {
+        display: flex;
+        gap: 3rem;
+        height: 90%;
+        flex-direction: column;
+        gap: 1.5rem;
+    } 
+}

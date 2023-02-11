@@ -1,0 +1,50 @@
+.maincont {
+    background: #FDAC2E;
+    display: flex;
+    flex-direction: column;
+    place-items: center;
+}
+.dapp-container {
+    display: flex;
+    height: 35vh; 
+    gap: 3rem;
+}
+.dapp-left {
+    display: flex;
+    place-items: center;
+}
+.dapp-left img {
+    height: 16rem;
+    position: relative;
+}
+.dapp-right {
+    color: white;
+    font-size: 1.6rem;
+    font-weight: 700;
+    text-align: left;
+} 
+.downloadapp {
+    display: flex;
+    gap: 1rem;
+}
+.downloadapp img {
+    height: 2.5rem;
+    border-radius: 40px;
+}
+
+/* MEDIA QUERY FOR PHONE */
+@media screen and (max-width:767px) {
+    .dapp-container {
+        transform: scale(0.65);
+    }
+}
+
+@media screen and (max-width:515px) {
+    .maincont {
+        height: 70vh;
+    }
+    .dapp-container {
+        display: flex;
+        flex-direction: column;
+    }
+}

@@ -1,0 +1,46 @@
+.Ads {
+    display: flex;
+    background: white;
+    outline: solid 4px rgba(0, 0, 0, 0.03);
+    height: 6rem;
+    width: 14rem;
+    border-radius: 20px;
+    place-content: center;
+    padding: 0.8rem;
+}
+.Ads:hover {
+    background: #FC2E45;
+}
+.ads-image {
+    height: 7rem;
+    width: 5rem;
+}
+.Ads img {
+    height: 5rem;
+    width: 5rem;
+    object-fit: contain;
+    background-color: #FEC500;
+    border-radius: 50%;
+}
+.Ads-text {
+    text-align: left;
+    height: 6rem;
+}
+.Ads-text:hover {
+    color: white;
+}
+.txt:nth-of-type(1){
+    font-size: 18px;
+    font-weight: 600;
+}
+.txt:nth-of-type(2) {
+    font-size: 10px;
+    font-weight: 200;
+    margin-top: 5px;
+}
+.txt:nth-of-type(3) {
+    font-size: 12px;
+    margin-top: 10px;
+    color: red;
+    font-weight: 800;
+}
