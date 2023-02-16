@@ -1,7 +1,8 @@
 {
   "files": {
-    "main.css": "/kfc-clone/static/css/main.23a7c4ac.css",
-    "main.js": "/kfc-clone/static/js/main.11c9f473.js",
+    "main.css": "/kfc-clone/static/css/main.7215de52.css",
+    "main.js": "/kfc-clone/static/js/main.7c19574b.js",
+    "static/media/advideo.mp4": "/kfc-clone/static/media/advideo.09601a7ade3ed83a140c.mp4",
     "static/media/kfc-nav7.png": "/kfc-clone/static/media/kfc-nav7.b7bdd3c147de3b5151c3.png",
     "static/media/kfc-nav3.png": "/kfc-clone/static/media/kfc-nav3.7e1ba49e30f8ffda9036.png",
     "static/media/kfc-nav4.png": "/kfc-clone/static/media/kfc-nav4.fe0127e1d204533fab78.png",
@@ -17,14 +18,17 @@
     "static/media/playstore.png": "/kfc-clone/static/media/playstore.09c175a774e9d070f8ac.png",
     "static/media/applestore.png": "/kfc-clone/static/media/applestore.c8a965c9cd53d9d4fe3d.png",
     "static/media/logo.png": "/kfc-clone/static/media/logo.3ec94e6fda47aa440976.png",
+    "static/media/instagram.svg": "/kfc-clone/static/media/instagram.3ad6241bae7f4f73f2c6643c25b1ede5.svg",
+    "static/media/twitter.svg": "/kfc-clone/static/media/twitter.29efe7642cf6b3c7fef389bcbea5b355.svg",
+    "static/media/facebook.svg": "/kfc-clone/static/media/facebook.6423bca24416859d65c22c3c02c8fa43.svg",
     "static/media/user.svg": "/kfc-clone/static/media/user.7facd69d60ad5a157a3c032d7e4c04f3.svg",
     "index.html": "/kfc-clone/index.html",
     "static/media/basket.svg": "/kfc-clone/static/media/basket.ac86eac88b1b2e216beebbb188a2d2a4.svg",
-    "main.23a7c4ac.css.map": "/kfc-clone/static/css/main.23a7c4ac.css.map",
-    "main.11c9f473.js.map": "/kfc-clone/static/js/main.11c9f473.js.map"
+    "main.7215de52.css.map": "/kfc-clone/static/css/main.7215de52.css.map",
+    "main.7c19574b.js.map": "/kfc-clone/static/js/main.7c19574b.js.map"
   },
   "entrypoints": [
-    "static/css/main.23a7c4ac.css",
-    "static/js/main.11c9f473.js"
+    "static/css/main.7215de52.css",
+    "static/js/main.7c19574b.js"
   ]
 }
