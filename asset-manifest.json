@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/kfc-clone/static/css/main.7215de52.css",
-    "main.js": "/kfc-clone/static/js/main.7c19574b.js",
+    "main.css": "/kfc-clone/static/css/main.a8b842c3.css",
+    "main.js": "/kfc-clone/static/js/main.e59f547e.js",
     "static/media/advideo.mp4": "/kfc-clone/static/media/advideo.09601a7ade3ed83a140c.mp4",
     "static/media/kfc-nav7.png": "/kfc-clone/static/media/kfc-nav7.b7bdd3c147de3b5151c3.png",
     "static/media/kfc-nav3.png": "/kfc-clone/static/media/kfc-nav3.7e1ba49e30f8ffda9036.png",
@@ -12,6 +12,7 @@
     "static/media/kfc-nav2.png": "/kfc-clone/static/media/kfc-nav2.964cf7a9dd0b932a356b.png",
     "static/media/kfc-nav8.png": "/kfc-clone/static/media/kfc-nav8.a6661357a48875fc0bb0.png",
     "static/media/kfc-nav6.png": "/kfc-clone/static/media/kfc-nav6.6747b537ded9d1de3ae0.png",
+    "static/media/footer_image.png": "/kfc-clone/static/media/footer_image.9b3922a435fae442e72f.png",
     "static/media/kfc.png": "/kfc-clone/static/media/kfc.32c3a5668e3f937d0f94.png",
     "static/media/banner.jpeg": "/kfc-clone/static/media/banner.34f44ff29bbecb408038.jpeg",
     "static/media/kfc-nav1.png": "/kfc-clone/static/media/kfc-nav1.315090ba5a49eb273245.png",
@@ -19,16 +20,23 @@
     "static/media/applestore.png": "/kfc-clone/static/media/applestore.c8a965c9cd53d9d4fe3d.png",
     "static/media/logo.png": "/kfc-clone/static/media/logo.3ec94e6fda47aa440976.png",
     "static/media/instagram.svg": "/kfc-clone/static/media/instagram.3ad6241bae7f4f73f2c6643c25b1ede5.svg",
+    "static/media/twitter_circled.svg": "/kfc-clone/static/media/twitter_circled.f9af1db1dd3656b26ba305b3c96b7f5a.svg",
     "static/media/twitter.svg": "/kfc-clone/static/media/twitter.29efe7642cf6b3c7fef389bcbea5b355.svg",
+    "static/media/whatsapp-white.svg": "/kfc-clone/static/media/whatsapp-white.0f963f38e69a2a10f8d92302e93b3450.svg",
     "static/media/facebook.svg": "/kfc-clone/static/media/facebook.6423bca24416859d65c22c3c02c8fa43.svg",
+    "static/media/facebook_circled.svg": "/kfc-clone/static/media/facebook_circled.967b55076304ab15f53b40e0b802afc6.svg",
+    "static/media/store_front.svg": "/kfc-clone/static/media/store_front.65a25a1ad94d8ba90692dbef2194e8f5.svg",
     "static/media/user.svg": "/kfc-clone/static/media/user.7facd69d60ad5a157a3c032d7e4c04f3.svg",
     "index.html": "/kfc-clone/index.html",
+    "static/media/openmenu.svg": "/kfc-clone/static/media/openmenu.36e9a08b5db7daf7d71f10fb150a3433.svg",
+    "static/media/youtube_play_button.svg": "/kfc-clone/static/media/youtube_play_button.3b33c0c2d87903c05ee4f0bcc8a9e8e3.svg",
+    "static/media/closemenu.svg": "/kfc-clone/static/media/closemenu.135665f8ec70962554f044c5133a7f53.svg",
     "static/media/basket.svg": "/kfc-clone/static/media/basket.ac86eac88b1b2e216beebbb188a2d2a4.svg",
-    "main.7215de52.css.map": "/kfc-clone/static/css/main.7215de52.css.map",
-    "main.7c19574b.js.map": "/kfc-clone/static/js/main.7c19574b.js.map"
+    "main.a8b842c3.css.map": "/kfc-clone/static/css/main.a8b842c3.css.map",
+    "main.e59f547e.js.map": "/kfc-clone/static/js/main.e59f547e.js.map"
   },
   "entrypoints": [
-    "static/css/main.7215de52.css",
-    "static/js/main.7c19574b.js"
+    "static/css/main.a8b842c3.css",
+    "static/js/main.e59f547e.js"
   ]
 }
